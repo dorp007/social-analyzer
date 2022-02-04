@@ -31,7 +31,7 @@
     "semver": "7.3.4",
     "slash": "3.0.0",
     "string-similarity": "4.0.4",
-    "tesseract.js": "2.1.4",
+    "tesseract.js": "2.1.5",
     "wink-tokenizer": "1.1.0",
     "wordsninja": "1.0.0",
     "yargs": "16.2.0"
