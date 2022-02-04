@@ -28,7 +28,7 @@
     "pretty-error": "2.1.2",
     "sanitize-html": ">=2.3.2",
     "selenium-webdriver": "4.0.0-alpha.7",
-    "semver": "7.3.4",
+    "semver": "7.3.5",
     "slash": "3.0.0",
     "string-similarity": "4.0.4",
     "tesseract.js": "2.1.4",
